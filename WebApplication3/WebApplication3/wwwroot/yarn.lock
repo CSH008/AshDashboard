@@ -29,10 +29,10 @@ astral-regex@^1.0.0:
   resolved "https://registry.yarnpkg.com/astral-regex/-/astral-regex-1.0.0.tgz#6c8c3fb827dd43ee3918f27b82782ab7658a6fd9"
   integrity sha512-+Ryf6g3BKoRc7jfp7ad8tM4TtMiaWvbF/1/sQcZPkkS7ag3D5nMBCe2UfOTONtAkaG0tO0ij3C5Lwmf1EiyjHg==
 
-bootstrap-table@^1.13.4:
-  version "1.13.4"
-  resolved "https://registry.yarnpkg.com/bootstrap-table/-/bootstrap-table-1.13.4.tgz#f23210fbd645331e9f19f0c344b8370a2a2ddf28"
-  integrity sha512-033fnjYKgFZO98PL6E0JAqmwTJ2isoQxJBFU6BwEbIMmRZETk5iDoPGgV+7wORt4c+yABNWj8EnbFBWAHz5YPw==
+bootstrap-table@^1.20.2:
+  version "1.20.2"
+  resolved "https://registry.yarnpkg.com/bootstrap-table/-/bootstrap-table-1.20.2.tgz#187fcd1812fa3422f964e3b32e3fc3d266108a83"
+  integrity sha512-6j9zfjjK6VZyJj8KsH+LnGczqglmMvMctGAoEAKDvrQ92ExQbA3mHGYPQr9iPrzoyeGL8+6Dyx6LqJbWmWmBoA==
 
 color-convert@^1.9.0:
   version "1.9.3"
